@@ -9,13 +9,11 @@
 
 Despite the success in the US, Asia-Pacific and Southeast Asian countries have fallen far behind in their vaccination campaign and regional leaders are ramping up their vaccine campaign across the ASEAN regions (Association of Southeast Asian Nations). Vietnam has been one key geography that's receiving a lot of attention as they've been having challenges on incorporating a robust supply chain network to rollout their vaccines. 
 
+![image](https://user-images.githubusercontent.com/16366387/120953130-3b606580-c701-11eb-857c-1d5de9568b9f.png)
+
 ![image](https://user-images.githubusercontent.com/16366387/120953046-18ce4c80-c701-11eb-9cda-77a9363ebd48.png)
 
 ![image](https://user-images.githubusercontent.com/16366387/120953075-2683d200-c701-11eb-8029-0e8285747545.png)
-
-![image](https://user-images.githubusercontent.com/16366387/120953130-3b606580-c701-11eb-857c-1d5de9568b9f.png)
-
-
 
 In this tutorial, we will help fellow students and colleagues learn how to build and deploy a route optimization model on R shinyapps. This specific project is focused on Vietnam as it's one of the fastest growing nations in the world and the vaccination program will be critical for Vietnam to maintain global growth.
 
