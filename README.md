@@ -19,6 +19,8 @@ In this tutorial, we will help fellow students and colleagues learn how to build
 
 ## Data & Technology Strategy
 
+![image](https://user-images.githubusercontent.com/16366387/120962653-ffcf9680-c714-11eb-97c5-b94a024c9c30.png)
+
 
 
 
