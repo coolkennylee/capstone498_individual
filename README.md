@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/16366387/120953646-449e0200-c702-11eb-991c-79b6301bfded.png)
 
 
-As the global vaccination campaign continues, the world is getting closer to being 
+Many countries have yet 
 
 
 In this tutorial, we will help fellow students and colleagues learn how to build and deploy a route optimization model on R shinyapps. 
