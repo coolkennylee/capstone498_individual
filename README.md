@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Many Western countries such as the US and Europe continue to accelerate their national vaccination campaign. There's been a significant improvement over the past several months as the US has reached a new low in infection rates according to the NYT statistics (https://www.nytimes.com/interactive/2021/us/covid-cases.html).
+**Many Western countries such as the US and Europe continue to accelerate their national vaccination campaign. There's been a significant improvement over the past several months as the US has reached a new low in infection rates according to the NYT statistics (https://www.nytimes.com/interactive/2021/us/covid-cases.html).**
 
 ![image](https://user-images.githubusercontent.com/16366387/120953646-449e0200-c702-11eb-991c-79b6301bfded.png)
 
