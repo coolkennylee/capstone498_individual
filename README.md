@@ -1,4 +1,4 @@
-# capstone 498 - Transport Route Optimization for COVID-19 Vaccines
+# Capstone 498 - Transport Route Optimization for COVID-19 Vaccines
 
 ## Problem Statement
 
