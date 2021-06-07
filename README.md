@@ -17,20 +17,8 @@ Despite the success in the US, Asia-Pacific and Southeast Asian countries have f
 
 In this tutorial, we will help fellow students and colleagues learn how to build and deploy a route optimization model on R shinyapps. This specific project is focused on Vietnam as it's one of the fastest growing nations in the world and the vaccination program will be critical for Vietnam to maintain global growth.
 
-## Steps we will cover in this tutorial
+## Data & Technology Strategy
 
-(1) Getting started with Shinyapps
 
-(2) Understanding linear programming and 
-
-(3) How to source/create datasets 
-
-(4) Training, evaluating and exporting the model
-
-(5) Building the application
-
-(6) Deploying the application
-
-(7) Implementing DevOps to implement automated, seamless CI/CD process
 
 
